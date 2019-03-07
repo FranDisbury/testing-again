@@ -1,0 +1,10 @@
+
+h1 { font-family: ‘Helvetica’, sans-serif; }
+img { width: 300px; }
+div { height: 595px; }
+div h1 { color: blue; }
+ul { list-style-type: none; }
+ul li { padding-left: 30px; }
+li { margin-bottom: 50px; }
+a { text-decoration: underline; }
+p a { border: 1px solid #000; }
